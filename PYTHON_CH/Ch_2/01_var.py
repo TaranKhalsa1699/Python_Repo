@@ -15,4 +15,9 @@ print(c)
 print(d)
 
 #  printing the types
-print
+print(type(a))
+print(type(a1))
+print(type(a2))
+print(type(b))
+print(type(c))
+print(type(d))
